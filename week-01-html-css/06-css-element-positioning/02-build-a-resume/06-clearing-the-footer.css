@@ -1,0 +1,39 @@
+div {
+    border-radius: 5px;
+}
+
+#header {
+    height: 120px;
+    width: 640px;
+    background-color: #880e4f;
+    position: fixed;
+    z-index: 1;
+    top: 10;
+}
+
+.left {
+    height: 300px;
+    width: 160px;
+    background-color: #fce4ec;
+    margin-top: 120px;
+    float: left;
+}
+
+.right {
+    height: 300px;
+    width: 480px;
+    background-color: #f8bbd0;
+    margin-top: 120px;
+    float: right;
+}
+
+#footer {
+    height: 60px;
+    width: 640px;
+    background-color: #e91e63;
+    clear: both;
+}
+
+body {
+    width: 640px;
+}
