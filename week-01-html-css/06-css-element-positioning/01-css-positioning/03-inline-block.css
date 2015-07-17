@@ -1,0 +1,27 @@
+* {
+    border: 1px dashed blue;
+}
+
+div {
+    height: 50px;
+    width: 100px;
+    border: 2px solid black;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+#one {
+    background-color: #ff0000;
+}
+
+#two {
+    background-color: #0000ff;
+}
+
+#three {
+    background-color: #ffd700;
+}
+
+#four {
+    background-color: #308014;
+}

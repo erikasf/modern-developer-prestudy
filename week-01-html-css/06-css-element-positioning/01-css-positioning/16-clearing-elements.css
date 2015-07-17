@@ -1,0 +1,31 @@
+div {
+    border-radius: 5px;
+}
+
+#header {
+    height: 50px;
+    background-color: #f38630;
+    margin-bottom: 10px;
+}
+
+.left {
+    height: 300px;
+    width: 150px;
+    background-color: #a7dbd8;
+    float: left;
+    margin-bottom: 10px;
+}
+
+.right {
+    height: 300px;
+    width: 450px;
+    background-color: #e0e4cc;
+    float: right;
+    margin-bottom: 10px;
+}
+
+#footer {
+    height: 50px;
+    background-color: #69d2e7;
+    clear: both;
+}
