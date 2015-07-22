@@ -12,4 +12,6 @@
 
 - [x] **Make an Interactive Website** (codecademy) — Build the Flipboard home page and learn how to add interactivity to your website. [→](https://www.codecademy.com/en/skills/make-an-interactive-website)
 
-- [ ] **Functions: declarations and expressions** (javascript.info) [→](http://javascript.info/tutorial/functions-declarations-and-expressions)
+- [x] **Functions: declarations and expressions** (javascript.info) [→](http://javascript.info/tutorial/functions-declarations-and-expressions)
+
+- [ ] **Date/Time functions** (javascript.info) [→](http://javascript.info/tutorial/datetime-functions)
