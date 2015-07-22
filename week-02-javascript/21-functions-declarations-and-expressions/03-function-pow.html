@@ -1,0 +1,24 @@
+<!doctype html>
+
+<head>
+    <title>pow(x, n)</title>
+    <script>
+        // Write a function pow(x,n) which returns x in the n-th power
+        // Or, in other words, x is multiplied by itself n times.
+        function pow(x, n) {
+            var pow = x;
+            for (i = 1; i < n; i++) {
+                pow *= x;
+            }
+            return pow;
+        }
+        // Create a page with prompts for x and n, then outputs the result of pow(x,n).
+        var x = prompt("Calculate the Exponentiation of a positive integer. Please enter the base…:");
+        var n = prompt("…and the exponent (or power):");
+        alert("The answer is: " + pow(x, n));
+    </script>
+</head>
+
+<body></body>
+
+</html>
