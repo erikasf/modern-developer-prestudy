@@ -10,4 +10,6 @@
 
 - [x] **JavaScript** (codecademy) — Learn the fundamentals of JavaScript, the programming language of the Web. [→](https://www.codecademy.com/en/tracks/javascript)
 
-- [ ] **Make an Interactive Website** (codecademy) — Build the Flipboard home page and learn how to add interactivity to your website. [→](https://www.codecademy.com/en/skills/make-an-interactive-website)
+- [x] **Make an Interactive Website** (codecademy) — Build the Flipboard home page and learn how to add interactivity to your website. [→](https://www.codecademy.com/en/skills/make-an-interactive-website)
+
+- [ ] **Functions: declarations and expressions** (javascript.info) [→](http://javascript.info/tutorial/functions-declarations-and-expressions)
