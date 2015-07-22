@@ -14,4 +14,6 @@
 
 - [x] **Functions: declarations and expressions** (javascript.info) [→](http://javascript.info/tutorial/functions-declarations-and-expressions)
 
-- [ ] **Date/Time functions** (javascript.info) [→](http://javascript.info/tutorial/datetime-functions)
+- [x] **Date/Time functions** (javascript.info) [→](http://javascript.info/tutorial/datetime-functions)
+
+- [ ] **JavaScript Prototype in Plain Language** (http://javascriptissexy.com) [→](http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/)
