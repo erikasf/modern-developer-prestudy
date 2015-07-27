@@ -16,4 +16,6 @@
 
 - [x] **Date/Time functions** (javascript.info) [→](http://javascript.info/tutorial/datetime-functions)
 
-- [ ] **JavaScript Prototype in Plain Language** (http://javascriptissexy.com) [→](http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/)
+- [x] **JavaScript Prototype in Plain Language** (javascriptissexy.com) [→](http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/)
+
+- [ ] **Understand JavaScript's "this" With Clarity, and Master It** (javascriptissexy.com) [→](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
