@@ -20,4 +20,4 @@
 
 - [x] **Understand JavaScript's "this" With Clarity, and Master It** (javascriptissexy.com) [→](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
 
-- [ ] **JavaScript Objects in Detail** (javascriptissexy.com) [→](http://javascriptissexy.com/javascript-objects-in-detail/)
+- [x] **JavaScript Objects in Detail** (javascriptissexy.com) [→](http://javascriptissexy.com/javascript-objects-in-detail/)
