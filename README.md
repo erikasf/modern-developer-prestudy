@@ -18,4 +18,6 @@
 
 - [x] **JavaScript Prototype in Plain Language** (javascriptissexy.com) [→](http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/)
 
-- [ ] **Understand JavaScript's "this" With Clarity, and Master It** (javascriptissexy.com) [→](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
+- [x] **Understand JavaScript's "this" With Clarity, and Master It** (javascriptissexy.com) [→](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
+
+- [ ] **JavaScript Objects in Detail** (javascriptissexy.com) [→](http://javascriptissexy.com/javascript-objects-in-detail/)
